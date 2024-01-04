@@ -6,6 +6,7 @@
   },
   "main": "/index.js",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "react-scripts": "1.0.0"
   },
   "name": "tic-tac-toe",
@@ -15,7 +16,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "postdeploy": "echo 'Deployed to GitHub Pages'"
   }
 }
