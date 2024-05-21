@@ -12,7 +12,7 @@
   "name": "tic-tac-toe",
   "description": "Tic Tac Toe",
   "version": "0.0.0",
-  "homepage": "http://shcoobz.github.io/tic-tac-toe",
+  "homepage": "http://shcoobz.github.io/advancedJS_tic-tac-toe",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

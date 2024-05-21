@@ -1,6 +1,6 @@
-# Tic-Tac-Toe
+# advancedJS_Tic-Tac-Toe: [LIVE DEMO](https://shcoobz.github.io/advancedJS_tic-tac-toe/)
 
-![Project Image](/src/img/tic-tac-toe.png)
+![Project Image](/src/img/advancedJS_tic-tac-toe.png)
 
 ## Summary
 
